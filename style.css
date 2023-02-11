@@ -1,0 +1,221 @@
+﻿.arabic{
+    font-family:"gulzar";
+}
+
+.eng {
+    font-family: 'Satisfy', cursive;
+}
+
+
+.back-img {
+    background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/still-items_KTQZYM7YXM.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 400px;
+    width: 100%;
+    --bs-gutter-x: 0;
+}
+.container-fluid {
+    --bs-gutter-x:0;
+}
+
+.header{
+    position:relative;
+    top:50px;
+    margin-left:20px;
+}
+
+
+
+#title {
+    background-color: #CDE990;
+}
+
+.download-button {
+    margin: 15px 15px;
+    text-align: center;
+    background-color: #A6BB8D;
+    border:0;
+}
+
+    .download-button:hover {
+        background-color: #5F8D4E;
+    }
+
+.header-1 {
+    margin: 0px 0px 5px 15px;
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem;
+    color: #3C6255;
+}
+
+.brand {
+    margin-left: 35px;
+    font-size: 2rem;
+    color: #3C6255;
+}
+
+.nav-link {
+    font-size: 1rem;
+    color: #3C6255;
+    margin:10px 0;
+}
+
+#features {
+    text-align: center;
+    background-color: white;
+    color: #3C6255;
+    margin:65px 0;
+    padding:3% 3%;
+}
+
+.header-details {
+    font-family: 'Oswald', sans-serif;
+}
+
+.p-details {
+    color: #474E68;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.icon-details{
+    margin:15px;
+}
+
+.icon-details:hover {
+    color: #7D8F69;
+}
+
+
+
+/*options*/
+
+#options {
+    background-color: #3C6255;
+    text-align: center;
+    
+}
+
+.coursel-img{
+   
+    border-radius:10%;
+    margin-bottom:35px;
+    float:left;
+    position:relative;
+    margin-left:500px;
+    margin-right:50px;
+    width:400px;
+    height:248px;
+}
+
+.coursel-h2,.or-option {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    padding: 3% 6%;
+}
+
+
+
+.option-text{
+    text-align:left;
+    position:relative;
+    right:0px;
+    margin:70px;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.or-option {
+    color: white;
+    word-spacing:10px;
+}
+
+.download-button-option {
+    margin-bottom: 35px;
+    font-family: 'Oswald', sans-serif;
+   
+}
+/*pricing
+*/
+#pricing {
+    padding: 100px;
+    text-align: center;
+    padding-bottom: 200px;
+}
+
+.card-price {
+    padding: 3% 2%;
+    border-radius:10%;
+}
+
+.h2, h2 {
+    font-size: calc(2.2rem + .9vw);
+    font-family: 'Anton', sans-serif;
+}
+
+.card-header {
+    font-family: 'Anton', sans-serif;
+    font-size:2.5rem;
+    background-color: #3C6255;
+    color:white;
+}
+
+.card-body {
+    background-color: #A6BB8D;
+}
+
+
+
+.price {
+    font-family: 'Anton', sans-serif;
+    color: #3C6255;
+}
+
+.p-price {
+    color: #474E68;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header-price {
+    color: #3C6255;
+
+}
+
+/*cta*/
+
+#cta {
+    background-color: #CDE990;
+    text-align:center;
+    padding:7% 10%;
+}
+
+.cta-header {
+    font-family: 'Anton', sans-serif;
+    color: #3C6255;
+}
+
+.download-button-cta-apple {
+   margin:30px;
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+}
+
+.download-button-cta-android {
+    margin: 30px;
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+/*footer*/
+
+#footer {
+    text-align: center;
+    padding: 50px;
+    padding-bottom: 0;
+}
+
+.footer-icons{
+    margin:30px;
+}
